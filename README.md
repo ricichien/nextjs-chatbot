@@ -1,6 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Description
+
+*Chatbot with AI* is based on a web platform book store with a live chat helper using the OpenAI API. You can ask recommendations of books and many other contents. You can also change the prompt and create adaptations that best suits your needs.
 
 ![Chat](https://user-images.githubusercontent.com/85197053/235807033-f32390c9-1991-47fa-8b9f-84e2bf5d494f.PNG)
+
+## Stack and Tools
+* [Tailwind](https://tailwindcss.com/)
+* [React](https://reactjs.org/)
+* [NextJS](https://nextjs.org/)
+* [Zod](https://zod.dev/)
+* [Upstash](https://upstash.com/)
+* [Lucide](https://lucide.dev/)
+* [Nanoid](https://github.com/ai/nanoid#readme)
+* [PostCSS](https://postcss.org/)
+* [Radix-UI](https://www.radix-ui.com/)
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
