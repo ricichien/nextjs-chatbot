@@ -1,6 +1,6 @@
 ## Description
 
-*Chatbot with AI* is based on a web platform book store with a live chat helper using the OpenAI API. You can ask recommendations of books and many other contents. You can also change the prompt and create adaptations that best suits your needs.
+*Chatbot with AI* is based on a web platform book store with a live chat helper using the OpenAI API. You can ask recommendations of books and many other questions. You can also change the prompt and create adaptations that best suits not only your needs but also your user's.
 
 ![Chat](https://user-images.githubusercontent.com/85197053/235807033-f32390c9-1991-47fa-8b9f-84e2bf5d494f.PNG)
 
